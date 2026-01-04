@@ -1,6 +1,7 @@
-This initiative harnesses the power of SQL and Excel to craft a comprehensive annual report and interactive dashboard for in-depth analysis of pizza sales data.
+This initiative uses SQL and Excel to create an annual report and interactive dashboard for analyzing pizza sales data.
 
-Using SQL, we streamline data retrieval, processing, and transformation to ensure data integrity and accuracy. Excel serves as our canvas for creating dynamic visualizations and insightful reports, providing stakeholders with actionable insights into sales performance, customer behavior, and market trends
-Leveraging SQL and Excel, this project crafts an insightful annual report and dashboard for pizza sales analysis. Dive deep into sales trends, customer preferences, and market dynamics with intuitive visualization.
+SQL helps collect, clean, and organize the data to ensure accuracy, while Excel is used to create easy-to-understand charts and dashboards.
 
-# pizza_sales_dashboard
+The dashboard provides clear insights into sales performance, customer preferences, popular pizzas and sales trends
+
+This approach makes pizza sales data easy to understand and supports better business decisions through clear visual insights.
